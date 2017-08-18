@@ -43,7 +43,7 @@ public class BT {
         tree.root.right = new Node(6);
 //        tree.inorder(tree.root);
 //        tree.preorder(tree.root);
-//        tree.postorder(tree.root);
+//
 
     }
 }
